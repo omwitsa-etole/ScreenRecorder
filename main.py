@@ -9,7 +9,7 @@ from PySide6 import *
 from PySide6.QtWebEngineWidgets import * 
 from PySide6.QtGui import *
 from PySide6.QtMultimediaWidgets import *
-from recorder import Recorder
+#from recorder import Recorder
 import random
 from logger import OutLog
 from PySide6.QtCore import *
